@@ -9,9 +9,7 @@ public class Spiralmaker {
 
 	public static void main(String[] args) {
 		
-	String name=JOptionPane.showInputDialog("Verb");
-	String nname=JOptionPane.showInputDialog("Noun");
-	String nnname=JOptionPane.showInputDialog("Adjective");
+	
 	
 		
 		// 3. Make a variable to hold the number of sides and set it to 0
